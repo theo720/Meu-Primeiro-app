@@ -1,0 +1,7 @@
+{
+  "name": "Barberia2",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

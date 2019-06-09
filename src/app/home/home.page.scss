@@ -1,0 +1,48 @@
+.container{
+    background: rgb(125, 20, 185);
+}
+ion-segment{
+    background:rgb(248, 248, 248);
+}
+.logo {
+    position: relative;
+
+    width: 40%;
+    left:30%;
+    width: 150px;
+
+}
+ion-slides{
+    height: 60%;
+
+    .slide-inner {
+        width: 75% ;
+        color: white;
+        background-color: blue;
+         border-radius: 10px;
+        
+
+    }
+    ion-item{
+        --backgroud: red;
+        --background-color: #000;
+        --border-radius: 10px;
+        --font-size: 27px;
+    
+    }
+    ion-button{
+        --border-radius: 10px;   
+    }
+}
+ion-content{
+    --background: linear-gradient(	rgb(238, 37, 154), rgb(224, 174, 7),  #000);
+}
+span{
+    
+    text-shadow: 2px 0px 0px #000;
+    color: white;
+    font-size: 26px;
+}
+p{
+    color: rgb(252, 248, 248);
+}
